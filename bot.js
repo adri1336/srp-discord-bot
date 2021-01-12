@@ -12,7 +12,7 @@ const commandsReplies = [
     ["!web", "la página web es: https://www.super-rp.es/"],
     ["!foro", "la dirección de nuestro foro es: https://forum.super-rp.es/"],
     ["!instagram", "nuestro Instagram es: https://www.instagram.com/super_rp.es/"],
-    ["!ts3", "esta es la dirección de nustro TeamSpeak 3: ts3.super-rp.es:9989"]
+    ["!ts3", "esta es la dirección de nuestro TeamSpeak 3: ts3.super-rp.es:9989"]
 ];
 
 client.on("message", msg => {
